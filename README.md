@@ -9,7 +9,7 @@
   <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Lari-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/72/8c/1a/728c1a53f0937acc8204f45c044c0db1.jpg">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3f0a14a5-0721-4d5e-9221-5df6d49ec698" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3f0a14a5-0721-4d5e-9221-5df6d49ec698" data-share-badge-host="https://www.credly.com"></div>
   
   ##
  
