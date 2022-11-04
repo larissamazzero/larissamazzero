@@ -1,4 +1,4 @@
-## Olá, eu sou a Larissa Mazzero 💛
+## Olá, eu sou a Lari 💛
 <div align="left">
   <a href="https://github.com/larissamazzero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissamazzero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
