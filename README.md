@@ -14,3 +14,12 @@
     </td>
   </tr>
 </p>
+
+<div> 
+  <a href = "mailto:larissaperossopmazzero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/larissa-mazzero-6b9293128/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.credly.com/badges/3f0a14a5-0721-4d5e-9221-5df6d49ec698/public_url" target="_blank"><img align="right" alt="azure" height="50" width="50" src="https://consultabd.files.wordpress.com/2021/05/ai900_00.png?w=600" target="_blank"></a>
+  
+  
+   ![Snake animation](https://github.com/larissamazzero/larissamazzero/blob/output/github-contribution-grid-snake.svg)
+</div>
