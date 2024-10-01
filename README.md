@@ -21,6 +21,5 @@
   <a href="https://www.credly.com/badges/3f0a14a5-0721-4d5e-9221-5df6d49ec698/public_url" target="_blank"><img align="right" alt="azure" height="50" width="50" src="https://consultabd.files.wordpress.com/2021/05/ai900_00.png?w=600" target="_blank"></a>
   
   
- # ![Snake animation](https://github.com/larissamazzero/larissamazzero/blob/output/github-contribution-grid-snake.svg)
    ![snake gif](https://github.com/your-user-name/larissamazzero/blob/output/github-contribution-grid-snake.gif)
 </div>
