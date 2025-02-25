@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/larissamazzero">
-    <img src="https://discord.c99.nl/widget/theme-4/725352831779078184.png"/>
-     </a>
-</p>
+
 
 <p align="center">
   <tr>
